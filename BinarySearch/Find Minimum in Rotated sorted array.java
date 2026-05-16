@@ -1,5 +1,6 @@
 //this is problem where we are given with an rotated sorted array where we have to find minimum element in O(logn)..
 //so we gonna use Binary search method as the array is sorted.
+
 class Solution {
     public int findMin(int[] nums) {
         int n=nums.length;
